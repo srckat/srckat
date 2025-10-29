@@ -2,10 +2,12 @@
 
 Welcome to my profile!
 
-My name is **srckat**, but you can just call me **Kat**. I love working on random small things, and sometimes large projects. I am currently working on my own game engine.<br>
-I love gaming, especially VR. 
+You can call me **Kat** :3 
 
-**Current major project:** TS3 BONELAB<br>
-**Current fav game:** Orion Drift
+I love working on random small things, and sometimes large projects. I am currently working on some VRChat worlds, and a VRChat world API.<br>
+I'm a VR and programming nerd (yes, I admit it).
+
+**Current major project:** VRChat World API (VRCNet)<br>
+**Current fav game:** VRChat
 
 **My website:** [srckat.me](https://srckat.me)
